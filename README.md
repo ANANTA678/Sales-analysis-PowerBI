@@ -15,5 +15,3 @@ There were certain data limitations, such as incomplete data or a lack of detail
 
 Visualizations and Reporting ->
 The visualizations used in the analysis were effective in communicating key findings and trends. Interactive elements like slicers and drill-throughs enhanced data exploration, making the insights more accessible. However, some charts could be improved for clarity by simplifying them or adding annotations. It's important to ensure that all visualizations are easy to understand and accessible to all stakeholders.
-
-55 sfsf
